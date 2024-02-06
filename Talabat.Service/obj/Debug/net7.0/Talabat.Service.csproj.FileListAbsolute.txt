@@ -1,0 +1,11 @@
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\bin\Debug\net7.0\Talabat.Service.deps.json
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\bin\Debug\net7.0\Talabat.Service.dll
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\bin\Debug\net7.0\Talabat.Service.pdb
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\Talabat.Service.AssemblyInfo.cs
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\Talabat.Service.dll
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\refint\Talabat.Service.dll
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\Talabat.Service.pdb
+D:\GitHub Repositories\Talabat-API\Talabat.APIs\Talabat.Service\obj\Debug\net7.0\ref\Talabat.Service.dll
